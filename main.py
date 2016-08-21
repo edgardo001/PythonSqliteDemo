@@ -8,7 +8,6 @@ import sys
 #importo mi modulos
 import db.sqlite as dbMy
 
-
 #metodo principal
 def main():
     conn = None
